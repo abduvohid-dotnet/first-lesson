@@ -1,0 +1,15 @@
+/Users/bobomurodovabduvohid/Desktop/online_lesson/first-lesson/bin/Debug/net10.0/first-lesson
+/Users/bobomurodovabduvohid/Desktop/online_lesson/first-lesson/bin/Debug/net10.0/first-lesson.deps.json
+/Users/bobomurodovabduvohid/Desktop/online_lesson/first-lesson/bin/Debug/net10.0/first-lesson.runtimeconfig.json
+/Users/bobomurodovabduvohid/Desktop/online_lesson/first-lesson/bin/Debug/net10.0/first-lesson.dll
+/Users/bobomurodovabduvohid/Desktop/online_lesson/first-lesson/bin/Debug/net10.0/first-lesson.pdb
+/Users/bobomurodovabduvohid/Desktop/online_lesson/first-lesson/obj/Debug/net10.0/first-lesson.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bobomurodovabduvohid/Desktop/online_lesson/first-lesson/obj/Debug/net10.0/first-lesson.AssemblyInfoInputs.cache
+/Users/bobomurodovabduvohid/Desktop/online_lesson/first-lesson/obj/Debug/net10.0/first-lesson.AssemblyInfo.cs
+/Users/bobomurodovabduvohid/Desktop/online_lesson/first-lesson/obj/Debug/net10.0/first-lesson.csproj.CoreCompileInputs.cache
+/Users/bobomurodovabduvohid/Desktop/online_lesson/first-lesson/obj/Debug/net10.0/first-lesson.sourcelink.json
+/Users/bobomurodovabduvohid/Desktop/online_lesson/first-lesson/obj/Debug/net10.0/first-lesson.dll
+/Users/bobomurodovabduvohid/Desktop/online_lesson/first-lesson/obj/Debug/net10.0/refint/first-lesson.dll
+/Users/bobomurodovabduvohid/Desktop/online_lesson/first-lesson/obj/Debug/net10.0/first-lesson.pdb
+/Users/bobomurodovabduvohid/Desktop/online_lesson/first-lesson/obj/Debug/net10.0/first-lesson.genruntimeconfig.cache
+/Users/bobomurodovabduvohid/Desktop/online_lesson/first-lesson/obj/Debug/net10.0/ref/first-lesson.dll
